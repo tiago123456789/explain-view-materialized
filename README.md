@@ -12,10 +12,10 @@ The view materialized is one table where result is processed different the view 
 Instructions to running application:
 ====================================
 - Clone project
-- Access frontend 
+- Access **frontend**
 - Execute command **npm i**
 - Execute command **npm run start**
-- Access server
+- Access **server**
 - Execute command **npm i**
 - Execute command **docker-compose up -d**
 - Execute command **node ./importCsvToDatabase.js && node ./addLatLongToCountry.js**
